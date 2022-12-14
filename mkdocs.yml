@@ -1,2 +1,8 @@
 site_name: Frontend-dev-bookmarks
 repo_url: https://github.com/dypsilon/frontend-dev-bookmarks
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
