@@ -7,6 +7,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: Bench
   system: enfuse-asae-sandbox-test
