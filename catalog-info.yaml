@@ -4,7 +4,7 @@ metadata:
   name: frontend-dev-bookmarks
   annotations:
     github.com/project-slug: ch-enfuse/frontend-dev-bookmarks
-    backstage.io/techdocs-ref: dir:.README.md
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
