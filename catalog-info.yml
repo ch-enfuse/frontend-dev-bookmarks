@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: frontend-dev-bookmarks
+  annotations:
+    backstage.io/techdocs-ref: README.md
+spec:
+  lifecycle: experimental
+  owner: Bench
+  system: enfuse-asae-sandbox
